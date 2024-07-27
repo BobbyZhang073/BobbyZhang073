@@ -12,7 +12,7 @@ I am Bobby, ZHANG TONG. Now I am a graduate student in [NTU](https://www.ntu.edu
 ### Visitor count
 <img src="https://profile-counter.glitch.me/BobbyZhang073/count.svg" />
 
-### 📫 Reach me at 
+####
 
 <a href="https://www.instagram.com/zhangt073/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/tong-zhang-399891227/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
