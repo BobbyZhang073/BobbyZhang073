@@ -3,8 +3,8 @@ I am Bobby, ZHANG TONG. Now I am a graduate student in [NTU](https://www.ntu.edu
 
 
 - 🔭 I’m currently Working on Machine Vison & ROS.
-- 🍔 immediate Past President of  [Uni. of Macau student chapter, IMechE](https://www.instagram.com/imeche_umsu/).
-- ⚡ Currently Study at Nanyang Technological Uni. (NTU).
+- 🍔 immediate Past President of  [Uni. of Macau Students' Chapter, IMechE](https://www.instagram.com/imeche_umsu/).
+- ⚡ Currently Study in Singapore.
 
 
 <hr />
