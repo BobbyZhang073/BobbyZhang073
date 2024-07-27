@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Hi there 
+I am Bobby, ZHANG TONG. Now I am a graduate student in NTU specialized at Computer Control & Automation, and have project experience in Robotics & Automation. Interested in making life SMARTER by creating various robots. 
 
-<!--
-**BobbyZhang073/BobbyZhang073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently Working on Machine Vison & ROS.
+- 🍔 Curious on New Things.
+- ⚡ Currently Study at Nanyang Technological Uni. (NTU).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<hr />
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/BobbyZhang073/count.svg" />
+
+### 📫 Reach me at 
+
+<a href="https://www.instagram.com/zhangt073/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/tong-zhang-399891227/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/BobbyZhang073/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
