@@ -2,7 +2,7 @@
 I am Bobby, ZHANG TONG. Now I am a graduate student in [NTU](https://www.ntu.edu.sg/) specialized at Computer Control & Automation, and have project experience in Robotics & Automation. Interested in making life SMARTER by creating various robots. 
 
 
-- 🔭 I’m currently Working on Machine Vison & ROS.
+- 🔭 I’m currently Working on SLAM on Robotics.
 - 🍔 Immediate Past President of  [Uni. of Macau Students' Chapter, IMechE](https://www.instagram.com/imeche_umsu/).
 - ⚡ Currently Study in Singapore.
 
