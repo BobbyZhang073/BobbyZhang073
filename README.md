@@ -8,8 +8,7 @@ I am Bobby, ZHANG TONG. Now I am a graduate student in [NTU](https://www.ntu.edu
 
 <hr />
 
-### Visitor count
-<img src="https://profile-counter.glitch.me/BobbyZhang073/count.svg" />
+
 
 ####
 
